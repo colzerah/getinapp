@@ -12,14 +12,11 @@
 
 Bibliotecas utilizadas para desenvolvimento:
 
-- [Axios] - Requisições ao back-end!
+- [Axios] - Requisições HTTP!
 - [Lottie-react-native] - Criação de componente de Loading.
-- [React-native-device-info] - Buscar informações do Celular em uso.
-- [Styled-components] - Estialização dos componentes, CSS.
+- [React-native-device-info] - Buscar informações do dispositivo em uso.
+- [Styled-components] - Estialização dos componentes.
 - [React-navigation-fluid-transitions] - Transições de tela.
-
-And of course Dillinger itself is open source with a [public repository][dill]
-on GitHub.
 
 ## Instalação
 
